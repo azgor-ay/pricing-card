@@ -1,0 +1,77 @@
+[
+    {
+        "name": [
+            "SSD",
+            "Starter",
+            "Cloud"
+        ],
+        "price": "$6.95",
+        "discount": "25%",
+        "monthlyPrice": "5.21/",
+        "features": [
+            "2 Websites",
+            "No Free Domain",
+            "5GB SSD RAID 10 Storage",
+            "100GB Monthly Bandwidth",
+            "Free Auto SSL (https)",
+            "Cloud Technology",
+            "LiteSpeed WebServer",
+            "LiteSpeed WordPress Cache",
+            "Cloudflare w/Railgun",
+            "Powerful cPanel",
+            "User-Friendly Access Management",
+            "Free Nightly Backups",
+            "99.9% Uptime"
+        ]
+    },
+    {
+        "name": [
+            "SSD",
+            "Plus",
+            "Cloud"
+        ],
+        "price": "$11.95",
+        "discount": "30%",
+        "monthlyPrice": "8.36/",
+        "features": [
+            "5 Websites",
+            "1 Free Domain",
+            "Unlimited SSD RAID 10 Storage",
+            "Unlimited Monthly Bandwidth",
+            "Free Auto SSL (https)",
+            "Cloud Technology",
+            "LiteSpeed WebServer",
+            "LiteSpeed WordPress Cache",
+            "Cloudflare w/Railgun",
+            "Powerful cPanel",
+            "User-Friendly Access Management",
+            "Free Nightly Backups",
+            "99.9% Uptime"
+        ]
+    },
+    {
+        "name": [
+            "SSD",
+            "Business",
+            "Cloud"
+        ],
+        "price": "$19.95",
+        "discount": "35%",
+        "monthlyPrice": "12.96/",
+        "features": [
+            "Unlimited Websites",
+            "1 Free Domain",
+            "Unlimited SSD RAID 10 Storage",
+            "Unlimited Monthly Bandwidth",
+            "Free Auto SSL (https)",
+            "Cloud Technology",
+            "LiteSpeed WebServer",
+            "LiteSpeed WordPress Cache",
+            "Cloudflare w/Railgun",
+            "Powerful cPanel",
+            "User-Friendly Access Management",
+            "Free Nightly Backups",
+            "99.9% Uptime"
+        ]
+    }
+]
